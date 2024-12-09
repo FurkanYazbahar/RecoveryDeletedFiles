@@ -20,8 +20,8 @@ This project is a C# application capable of scanning and recovering deleted file
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/data-recovery-tool.git
-    cd data-recovery-tool
+    git clone https://github.com/FurkanYazbahar/RecoveryDeletedFiles
+    cd RecoveryDeletedFiles
     ```
 
 2. **Install the necessary dependencies:**
